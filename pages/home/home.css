@@ -1,0 +1,12 @@
+ion-content {
+  background: linear-gradient(to bottom, #f1d2b5,rgb(255, 255, 128))
+}
+h2 {
+  color: rebeccapurple;
+}
+p { 
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; text-align: justify;
+}
+ion-item {
+  background-color:transparent;
+}
